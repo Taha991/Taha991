@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Ahmed Mabrouk's profile!
+  Welcome to Taha Mohamed's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -12,17 +12,15 @@
 </p> 
 
 - 🏢 I'm a Junior Fullstack web developer using .Net 
-- 👨‍💻 As a CS graduate, and ITI student I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, Angular , C# and ASP.Net , or anything related to web development.
 
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/ahmed-mabrouk-ahmed181999/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100011418333372" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://wa.me/+201015212053" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="mailto:ahmdmbrwk80@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="https://www.linkedin.com/in/taha-mohamed-7b7ab3254/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://wa.me/+201128186800" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+<a href="mailto:tahamohamedman@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 
 
 
