@@ -19,8 +19,8 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/taha-mohamed-7b7ab3254/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/+201128186800" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="mailto:tahamohamedman@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mabrouk-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="https://wa.me/+201128186800" target="_blank"><img src="https://img.shields.io/badge/-Taha%20Mohamed-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+<a href="mailto:tahamohamedman@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Taha%20Mohamed-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 
 
 
